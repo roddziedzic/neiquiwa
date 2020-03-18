@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chahdaetha.musicmetro.ru/sitemap.xml
